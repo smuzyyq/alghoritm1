@@ -1,3 +1,1 @@
-# alghoritm1
-
-<p>Dzat nau</p>
+Report for task 1 
